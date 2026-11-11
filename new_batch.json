@@ -1,0 +1,695 @@
+[
+  {
+    "id": "laozi_tao_te_ching_1",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "The journey of a thousand miles begins with a single step.",
+    "modern_sanity_check": "Start doing something instead of just thinking about it."
+  },
+  {
+    "id": "confucius_analects_1",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "Real knowledge is to know the extent of one's ignorance.",
+    "modern_sanity_check": "Admit you don't know everything; it's the first step to learning."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_1",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "Happiness is the absence of the striving for happiness.",
+    "modern_sanity_check": "Stop chasing happiness and you might just find it."
+  },
+  {
+    "id": "mencius_mencius_1",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "The great man is he who does not lose his child's heart.",
+    "modern_sanity_check": "Hold onto your curiosity and wonder, even as an adult."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_1",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All things arise in dependence upon other things.",
+    "modern_sanity_check": "Nothing exists in isolation; everything is interconnected."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_1",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "If the problem can be solved why worry? If the problem cannot be solved worrying will do you no good.",
+    "modern_sanity_check": "Worrying is pointless whether you can fix the issue or not."
+  },
+  {
+    "id": "buddha_dhammapada_1",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+    "modern_sanity_check": "Responding to hate with hate only makes things worse."
+  },
+  {
+    "id": "mozi_mozi_1",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "Universal love is really the way of the sage-kings. It is what gives peace to the rulers and sustenance to the people.",
+    "modern_sanity_check": "Caring for everyone leads to a more stable society."
+  },
+  {
+    "id": "han_feizi_han_feizi_1",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler alone should possess the instruments of reward and punishment.",
+    "modern_sanity_check": "Power should be centralized to maintain control, but beware of tyranny."
+  },
+  {
+    "id": "laozi_tao_te_ching_2",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "Knowing others is intelligence; knowing yourself is true wisdom.",
+    "modern_sanity_check": "Self-awareness is more valuable than just being smart."
+  },
+  {
+    "id": "confucius_analects_2",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "modern_sanity_check": "Progress is progress, no matter the speed."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_2",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "Flow with whatever may happen and let your mind be free.",
+    "modern_sanity_check": "Adapt to changes and keep an open mind."
+  },
+  {
+    "id": "mencius_mencius_2",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "The feeling of commiseration is the beginning of humanity.",
+    "modern_sanity_check": "Empathy is at the core of being human."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_2",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "There is no distinction whatever between nirvana and samsara.",
+    "modern_sanity_check": "The boundaries between suffering and enlightenment are not as clear as they seem."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_2",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "All the joy the world contains has come through wishing happiness for others.",
+    "modern_sanity_check": "True happiness comes from helping others find theirs."
+  },
+  {
+    "id": "buddha_dhammapada_2",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "The mind is everything. What you think you become.",
+    "modern_sanity_check": "Your thoughts shape your reality."
+  },
+  {
+    "id": "mozi_mozi_2",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "He who loves others is constantly loved by them.",
+    "modern_sanity_check": "Treat others well, and they will reciprocate."
+  },
+  {
+    "id": "han_feizi_han_feizi_2",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The way is not to be found in books, yet books are useful.",
+    "modern_sanity_check": "Books are helpful, but real understanding comes from experience."
+  },
+  {
+    "id": "laozi_tao_te_ching_3",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "He who knows that enough is enough will always have enough.",
+    "modern_sanity_check": "Contentment is the key to satisfaction."
+  },
+  {
+    "id": "confucius_analects_3",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "modern_sanity_check": "Failure is inevitable; resilience is what matters."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_3",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "A path is made by walking on it.",
+    "modern_sanity_check": "You create your own path by moving forward."
+  },
+  {
+    "id": "mencius_mencius_3",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "He who exerts his mind to the utmost knows his nature.",
+    "modern_sanity_check": "Push your mental limits to truly understand yourself."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_3",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "Emptiness wrongly grasped is like picking up a poisonous snake by the wrong end.",
+    "modern_sanity_check": "Misunderstanding complex ideas can be dangerous."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_3",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "Whatever joy there is in this world all comes from desiring others to be happy.",
+    "modern_sanity_check": "Your happiness is tied to the happiness you wish for others."
+  },
+  {
+    "id": "buddha_dhammapada_3",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "Peace comes from within. Do not seek it without.",
+    "modern_sanity_check": "Inner peace can't be found in external things."
+  },
+  {
+    "id": "mozi_mozi_3",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The purpose of the state is to provide for the welfare of the people.",
+    "modern_sanity_check": "Governments should prioritize citizens' well-being."
+  },
+  {
+    "id": "han_feizi_han_feizi_3",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The intelligent ruler makes the law select men and makes no arbitrary appointments himself.",
+    "modern_sanity_check": "Let systems, not personal whims, guide leadership decisions."
+  },
+  {
+    "id": "laozi_tao_te_ching_4",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "Nature does not hurry, yet everything is accomplished.",
+    "modern_sanity_check": "Things will fall into place in their own time."
+  },
+  {
+    "id": "confucius_analects_4",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "To see what is right and not do it is want of courage.",
+    "modern_sanity_check": "Knowing the right thing isn't enough; act on it."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_4",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "Forget the years, forget distinctions. Leap into the boundless and make it your home!",
+    "modern_sanity_check": "Let go of labels and embrace the infinite possibilities."
+  },
+  {
+    "id": "mencius_mencius_4",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "The tendency of man's nature to good is like the tendency of water to flow downward.",
+    "modern_sanity_check": "People naturally lean towards goodness, like water flows down."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_4",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "He who sees the doctrine of dependent arising sees the Dharma.",
+    "modern_sanity_check": "Understanding interdependence is key to grasping the truth."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_4",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "All the suffering in the world comes from seeking pleasure for oneself.",
+    "modern_sanity_check": "Selfish pursuits often lead to pain."
+  },
+  {
+    "id": "buddha_dhammapada_4",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened.",
+    "modern_sanity_check": "Sharing knowledge or kindness doesn't diminish your own."
+  },
+  {
+    "id": "mozi_mozi_4",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "If people are set on profit, they will oppose each other.",
+    "modern_sanity_check": "Greed breeds conflict."
+  },
+  {
+    "id": "han_feizi_han_feizi_4",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler must regard his ministers as his hands and feet.",
+    "modern_sanity_check": "Leaders should value their team as essential extensions of themselves."
+  },
+  {
+    "id": "laozi_tao_te_ching_5",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "He who conquers others is strong; he who conquers himself is mighty.",
+    "modern_sanity_check": "Self-discipline is the ultimate strength."
+  },
+  {
+    "id": "confucius_analects_5",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "Respect yourself and others will respect you.",
+    "modern_sanity_check": "Self-respect earns respect from others."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_5",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "Great wisdom is generous; petty wisdom is contentious.",
+    "modern_sanity_check": "True wisdom is open-minded, not argumentative."
+  },
+  {
+    "id": "mencius_mencius_5",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "To act without understanding is to stumble in the dark.",
+    "modern_sanity_check": "Don't act blindly; know what you're doing."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_5",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "There is no path to enlightenment; enlightenment is the path.",
+    "modern_sanity_check": "The journey itself is the destination."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_5",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "If you want others to be happy, practice compassion. If you want to be happy, practice compassion.",
+    "modern_sanity_check": "Compassion benefits both you and others."
+  },
+  {
+    "id": "buddha_dhammapada_5",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "Better than a thousand hollow words is one word that brings peace.",
+    "modern_sanity_check": "Quality of speech matters more than quantity."
+  },
+  {
+    "id": "mozi_mozi_5",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The greatest harm comes from the desire for profit.",
+    "modern_sanity_check": "Greed can lead to significant damage."
+  },
+  {
+    "id": "han_feizi_han_feizi_5",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The way of the ruler is to unify the hearts of the people.",
+    "modern_sanity_check": "A leader should aim to unite, not divide."
+  },
+  {
+    "id": "laozi_tao_te_ching_6",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "Silence is a source of great strength.",
+    "modern_sanity_check": "Quiet reflection can be powerful."
+  },
+  {
+    "id": "confucius_analects_6",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+    "modern_sanity_check": "Use others' faults as a mirror for self-reflection."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_6",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "The perfect man employs his mind as a mirror.",
+    "modern_sanity_check": "Reflect on experiences without attachment."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_6",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All philosophies are mental fabrications.",
+    "modern_sanity_check": "Every belief system is a construct of the mind."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_6",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "Anger is the greatest evil.",
+    "modern_sanity_check": "Letting anger control you leads to harm."
+  },
+  {
+    "id": "buddha_dhammapada_6",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "The only real failure in life is not to be true to the best one knows.",
+    "modern_sanity_check": "Failing to live by your values is the real failure."
+  },
+  {
+    "id": "buddha_dhammapada_7",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "All that we are is the result of what we have thought.",
+    "modern_sanity_check": "Your mindset shapes your reality. Think wisely."
+  },
+  {
+    "id": "han_feizi_han_feizi_6",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler alone possesses power, wielding it like lightning.",
+    "modern_sanity_check": "Power is best kept concentrated, but use it wisely."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_7",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "There is no distinction whatsoever between nirvana and samsara.",
+    "modern_sanity_check": "The difference between chaos and peace is often just perspective."
+  },
+  {
+    "id": "mozi_mozi_6",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "Universal love is really the way of the sage-kings.",
+    "modern_sanity_check": "True leadership means caring for everyone, not just your circle."
+  },
+  {
+    "id": "confucius_analects_8",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "The man who moves a mountain begins by carrying away small stones.",
+    "modern_sanity_check": "Big goals are achieved through small, consistent actions."
+  },
+  {
+    "id": "mencius_mencius_7",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "Benevolence is the characteristic element of humanity.",
+    "modern_sanity_check": "Being kind is what makes us truly human."
+  },
+  {
+    "id": "han_feizi_han_feizi_7",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The way of the ruler is to keep his intentions secret.",
+    "modern_sanity_check": "Transparency isn't always the best policy in leadership."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_8",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "Things derive their being and nature by mutual dependence and are nothing in themselves.",
+    "modern_sanity_check": "Everything's connected; nothing stands alone."
+  },
+  {
+    "id": "laozi_tao_te_ching_9",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "When I let go of what I am, I become what I might be.",
+    "modern_sanity_check": "Letting go of your ego opens up new possibilities."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_9",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "The wise man knows he knows nothing.",
+    "modern_sanity_check": "True wisdom is realizing how much you don't know."
+  },
+  {
+    "id": "han_feizi_han_feizi_8",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "When the ruler trusts someone, he falls under that person's control.",
+    "modern_sanity_check": "Blind trust can make you a puppet."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_9",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "There is nothing that distinguishes samsara from nirvana.",
+    "modern_sanity_check": "Peace and chaos are two sides of the same coin."
+  },
+  {
+    "id": "mozi_mozi_8",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "Partiality is not the way of the sage.",
+    "modern_sanity_check": "Bias clouds judgment; aim for fairness."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_10",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "Life comes from the earth and life returns to the earth.",
+    "modern_sanity_check": "We're all part of the same cycle."
+  },
+  {
+    "id": "mencius_mencius_9",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "The root of humanity is benevolence.",
+    "modern_sanity_check": "Kindness is at the core of being human."
+  },
+  {
+    "id": "han_feizi_han_feizi_9",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The art of the ruler is to keep his ministers at a distance.",
+    "modern_sanity_check": "Keep a healthy distance from those who serve you."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_10",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All phenomena are empty of inherent existence.",
+    "modern_sanity_check": "Nothing has meaning unless we give it meaning."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_10",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "All suffering comes from the wish for your own happiness.",
+    "modern_sanity_check": "Selfish desires lead to pain."
+  },
+  {
+    "id": "mozi_mozi_9",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The way of the sage is to act for the benefit of all.",
+    "modern_sanity_check": "True wisdom is in helping everyone, not just yourself."
+  },
+  {
+    "id": "han_feizi_han_feizi_10",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The wise ruler does not reward virtue nor punish vice.",
+    "modern_sanity_check": "Rely on systems, not personal judgments."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_11",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "If you wish to overcome that which is unpleasant, you must practice patience.",
+    "modern_sanity_check": "Patience is key to dealing with life's annoyances."
+  },
+  {
+    "id": "mozi_mozi_10",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The benevolent man loves others.",
+    "modern_sanity_check": "Kindness means genuinely caring for others."
+  },
+  {
+    "id": "zhuangzi_zhuangzi_7",
+    "author": "Zhuangzi",
+    "source": "Zhuangzi",
+    "quote": "A frog in a well cannot conceive of the ocean.",
+    "modern_sanity_check": "Your tiny bubble isn't the whole world."
+  },
+  {
+    "id": "han_feizi_han_feizi_11",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler alone should possess the power, weighing the talents of the ministers.",
+    "modern_sanity_check": "Keep the reins tight or things go off the rails."
+  },
+  {
+    "id": "mencius_mencius_8",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "To act without clear understanding, to form habits without investigation, is to stumble in the dark.",
+    "modern_sanity_check": "Don't be a clueless drone."
+  },
+  {
+    "id": "mozi_mozi_11",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The purpose of punishment is not to cause suffering, but to prevent crime.",
+    "modern_sanity_check": "Justice isn't about revenge."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_12",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All things are devoid of intrinsic existence.",
+    "modern_sanity_check": "Nothing's as solid as it seems."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_13",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "If the problem can be solved, why worry? If the problem cannot be solved, worrying will do you no good.",
+    "modern_sanity_check": "Worrying is just mental clutter."
+  },
+  {
+    "id": "han_feizi_han_feizi_12",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The way to get ahead is to make use of others' strengths.",
+    "modern_sanity_check": "Leverage teamwork to get stuff done."
+  },
+  {
+    "id": "laozi_tao_te_ching_10",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "The journey of a thousand miles begins with one step.",
+    "modern_sanity_check": "Start somewhere, anywhere, just start."
+  },
+  {
+    "id": "mencius_mencius_10",
+    "author": "Mencius",
+    "source": "Mencius",
+    "quote": "The root of humanity is in the heart.",
+    "modern_sanity_check": "Empathy is the core of being human."
+  },
+  {
+    "id": "mozi_mozi_12",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "If people are set on profit, they will not yield to others.",
+    "modern_sanity_check": "Greed makes you selfish."
+  },
+  {
+    "id": "laozi_tao_te_ching_7",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "The sage does not hoard. The more he helps others, the more he benefits himself.",
+    "modern_sanity_check": "Helping others can be surprisingly self-serving. Who knew altruism was so selfish?"
+  },
+  {
+    "id": "confucius_analects_7",
+    "author": "Confucius",
+    "source": "Analects",
+    "quote": "When you see a worthy person, think of becoming like them. When you see someone unworthy, examine your own character.",
+    "modern_sanity_check": "Role models are useful, but so are bad examples. Reflect on both."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_11",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All things are devoid of intrinsic nature.",
+    "modern_sanity_check": "Nothing has a fixed identity. Everything's a bit of a shapeshifter."
+  },
+  {
+    "id": "han_feizi_han_feizi_13",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The wise man does not seek to follow the footsteps of the men of old.",
+    "modern_sanity_check": "Stop living in the past. Forge your own path."
+  },
+  {
+    "id": "buddha_dhammapada_9",
+    "author": "Buddha",
+    "source": "Dhammapada",
+    "quote": "Better than a thousand hollow words, is one word that brings peace.",
+    "modern_sanity_check": "Quality over quantity. One meaningful word beats a thousand empty ones."
+  },
+  {
+    "id": "mozi_mozi_13",
+    "author": "Mozi",
+    "source": "Mozi",
+    "quote": "The purpose of righteousness is to bring benefit to the world.",
+    "modern_sanity_check": "Righteousness isn't about self-image; it's about making a real difference."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_14",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "There is no distinction between samsara and nirvana.",
+    "modern_sanity_check": "The line between chaos and peace is blurrier than you think."
+  },
+  {
+    "id": "han_feizi_han_feizi_14",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler who trusts others will be controlled by others.",
+    "modern_sanity_check": "Blind trust gives others the keys to your kingdom."
+  },
+  {
+    "id": "laozi_tao_te_ching_8",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "The best way to live is to be like water.",
+    "modern_sanity_check": "Be adaptable and go with the flow, but don't let people walk all over you."
+  },
+  {
+    "id": "nagarjuna_madhyamaka_karika_13",
+    "author": "Nagarjuna",
+    "source": "Madhyamaka Karika",
+    "quote": "All things are devoid of intrinsic existence and nature.",
+    "modern_sanity_check": "Everything's kind of empty and meaningless, but that means you can make your own meaning."
+  },
+  {
+    "id": "shantideva_bodhicaryavatara_12",
+    "author": "Shantideva",
+    "source": "Bodhicaryavatara",
+    "quote": "If there is a remedy when trouble strikes, what reason is there for dejection? And if there is no help for it, what use is there in being glum?",
+    "modern_sanity_check": "If you can fix it, do it. If not, moping's not going to help."
+  },
+  {
+    "id": "han_feizi_han_feizi_15",
+    "author": "Han Feizi",
+    "source": "Han Feizi",
+    "quote": "The ruler alone should possess the power of rewards and punishments.",
+    "modern_sanity_check": "Keep control of the carrot and the stick, or someone else will start using them on you."
+  },
+  {
+    "id": "laozi_tao_te_ching_11",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "Thirty spokes share the wheel's hub; it is the center hole that makes it useful.",
+    "modern_sanity_check": "Sometimes, what's missing is what truly matters."
+  },
+  {
+    "id": "laozi_tao_te_ching_12",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "Knowing others is intelligence; knowing yourself is true wisdom. Mastering others is strength; mastering yourself is true power.",
+    "modern_sanity_check": "You can be a genius about the world, but if you don't understand yourself, you're still clueless. Control over others is easy; self-control is where the real challenge lies."
+  },
+  {
+    "id": "buddha_samyutta_nikaya_1",
+    "author": "Buddha",
+    "source": "Samyutta Nikaya",
+    "quote": "All conditioned things are impermanent—when one sees this with wisdom, one turns away from suffering.",
+    "modern_sanity_check": "Everything changes. Accept it, and you'll suffer less."
+  },
+  {
+    "id": "laozi_tao_te_ching_13",
+    "author": "Lao Tzu",
+    "source": "Tao Te Ching",
+    "quote": "The sage does not hoard. The more he helps others, the more he benefits himself, the more he gives to others, the more he gets himself.",
+    "modern_sanity_check": "Helping others isn't just noble; it's a practical investment in your own well-being."
+  }
+]

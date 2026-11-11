@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", "Times New Roman", serif;
+  --font-sans: "Sora", ui-sans-serif, sans-serif;
+
+  --color-obsidian: #0a0a0b;
+  --color-parchment: #f3ebe0;
+  --color-parchment-dim: #c9bba8;
+
+  --color-mood-stoic: #d4a017;
+  --color-mood-taoist: #2f9e6a;
+  --color-mood-existential: #6ec6e8;
+  --color-mood-cynical: #d97706;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: var(--color-obsidian);
+  color: var(--color-parchment);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+body {
+  overflow: hidden;
+}
+
+@keyframes stone-breathe {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: scale(1.06);
+    opacity: 1;
+  }
+}
+
+@keyframes quote-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.glow-core {
+  animation: stone-breathe 4.8s ease-in-out infinite;
+  transition:
+    background-color 700ms ease,
+    box-shadow 700ms ease,
+    opacity 700ms ease;
+}
+
+.quote-enter {
+  animation: quote-in 420ms ease-out;
+}
